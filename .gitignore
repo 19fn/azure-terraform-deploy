@@ -1,7 +1,7 @@
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
-./.terraform.lock.*
+.terraform.lock.hcl
 
 # .tfstate files
 *.tfstate
@@ -36,5 +36,5 @@ override.tf.json
 terraform.rc
 
 # SSH key and ips files
-./id_rsa
-./ips
+id_rsa
+ips
