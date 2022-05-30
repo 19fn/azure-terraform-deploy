@@ -1,1 +1,1 @@
-# azure-webapp-deploy
+# azure-terraform-deploy
